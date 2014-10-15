@@ -27,7 +27,7 @@ Now, to finish this task
 We run the Morse code in Audacity, select Pitch(EAC) for analysis and set rate to 11025Hz.
 And voila :)
 
-![Image](screenshoot.png)
+![Image](screenshot.png)
 
 The song now become the real Morse code
 
