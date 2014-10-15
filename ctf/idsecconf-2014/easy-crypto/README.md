@@ -14,12 +14,14 @@ After using some online converter tools, these string became :
 
 > R2FrIHNlbXVkYWggaXR1IG1hcyBicm8sIG5paCBodHRwOi8vZGwuZHJvcGJveC5jb20vcy8yNGkxa3E2eWNvb2hxamwvY3J5cHRvMUZsYWcubXAz
 
-Actually, the second string has "==" at the end of it, but i just try to recall the writer's purposes because i forgot to save the real string :(
+Actually, the second string has "==" at the end of it, but i just try to recall the writer's purposes because i forgot to save the real string.
+
 So, because there was a "==" at the string we try to decode it with online base64 encoding. The result is :
 
 > Gak semudah itu mas bro, nih http://dl.dropbox.com/s/24i1kq6ycoohqjl/crypto1Flag.mp3
 
-Yeay, we've found the link :)
+Yeay, we've found the link.
+
 After we downloaded it, we found that it was a Morse code.
 You can check it [here](crypto1Flag.mp3)
 
@@ -30,8 +32,9 @@ And voila :)
 ![Image](screenshot.png)
 
 The song now become the real Morse code
-
-> ..-. ..- -. -- ----- .-. ... ...-- -.-. ----- -.. ...--
+```bash
+..-. ..- -. -- ----- .-. ... ...-- -.-. ----- -.. ...--
+```
 
 After we translated the Morse code, the string is :
 
