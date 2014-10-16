@@ -16,7 +16,7 @@ After using some online converter tools, these string became :
 
 Actually, the second string has "==" at the end of it, but i just try to recall the writer's purposes because i forgot to save the real string.
 
-So, because there was a "==" at the string we try to decode it with online base64 encoding. The result is :
+So, because there was a "==" at the string we try to decode it with online base64 decoding. The result is :
 
 > Gak semudah itu mas bro, nih http://dl.dropbox.com/s/24i1kq6ycoohqjl/crypto1Flag.mp3
 
@@ -26,8 +26,7 @@ After we downloaded it, we found that it was a Morse code.
 You can check it [here](crypto1Flag.mp3)
 
 Now, to finish this task
-We run the Morse code in Audacity, select Pitch(EAC) for analysis and set rate to 11025Hz.
-And voila :)
+we run the morse code in Audacity, select Pitch(EAC) for analysis and set rate to 11025Hz.
 
 ![Image](screenshot.png)
 
@@ -36,7 +35,7 @@ The song now become the real Morse code
 ..-. ..- -. -- ----- .-. ... ...-- -.-. ----- -.. ...--
 ```
 
-After we translated the Morse code, the string is :
+After we translated the morse code, the string is :
 
 > FUNM0RS3C0D3
 
