@@ -16,7 +16,7 @@ So it's a .Net program. Because the problem is about reverse, we loaded up the I
 
 After trying to found the 'real' code, we found this interesting method
 
-![Image](screenshot.png)
+![Image](screenshoot.PNG)
 
 From that method, we know that the Flag was stored in `stringBuilder` variable.
 
