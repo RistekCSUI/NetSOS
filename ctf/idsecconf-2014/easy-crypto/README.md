@@ -9,12 +9,12 @@ In this problem, we were given this string :
 
 > 5232467249484e6c6258566b59576767615852314947316863794269636d3873494735706143426f644852774f6938765a4777755a484a7663474a766543356a62323076637938794e476b786133453265574e7662326878616d777659334a35634852764d555a73595763756258417a
 
-Later, we found that these string maybe a hex ascii code, because there are alphabets and numbers on it.
+We found that these string maybe a hex ascii code, because there are alphabets and numbers on it.
 After using some online converter tools, these string became :
 
 > R2FrIHNlbXVkYWggaXR1IG1hcyBicm8sIG5paCBodHRwOi8vZGwuZHJvcGJveC5jb20vcy8yNGkxa3E2eWNvb2hxamwvY3J5cHRvMUZsYWcubXAz
 
-Actually, the second string has "==" at the end of it, but i just try to recall the writer's purposes because i forgot to save the real string.
+Actually, the second string has "==" at the end of it, but i just try to recall the writer's purpose because i forgot to save the real string.
 
 So, because there was a "==" at the string we try to decode it with online base64 decoding. The result is :
 
