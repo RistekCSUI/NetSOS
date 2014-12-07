@@ -7,7 +7,7 @@
 
 ### Write-up
 
-We were given a service that running some program that ask for answer at `number.quals.seccon.jp 31337`
+We were given a service that running a program that ask for answer at `number.quals.seccon.jp 31337`
 
 ```bash
 $ nc number.quals.seccon.jp 31337
@@ -17,7 +17,7 @@ Wrong, bye.
 ```
 
 Using netcat we found an interesting program, actually it just ask a bunch of numbers and we were asked for the maximum or the minimum number from the list of numbers.
-A couple hours (trial and error), we tried to code a Python program to simulate and solve the task automatically and came up with this solver script :D
+With trials and errors, we tried to code a Python script to simulate and solve the task automatically and came up with this solver script :D
 
 ```python
 import socket
