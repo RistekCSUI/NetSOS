@@ -1,4 +1,4 @@
-## Programming - SECCON 2014
+## REA-JUU WATCH - SECCON 2014
 
 **Category:** Web
 **Points:** 200
@@ -20,4 +20,6 @@ We try to log in to the web with that account and played the game. And on the la
 
 So, that's the flag :)
 
-This bug somehow also still happened on some websites that we've visited online. The bug happened because the developer didn't authenticate a valid user when accessing their websites. It should have some authentication method (cookies, session, etc) to validate the user's action on their website. As a developer, the first thing to remember is DON'T TRUST YOUR USER'S INPUT :)
+This bug somehow also still happened on some websites that we've visited online. The bug happened because the developer didn't authenticate a valid user when accessing their websites. It should have some authentication method (cookies, session, etc) to validate the user's action on their website. 
+
+As a developer, the first thing to remember is DON'T TRUST YOUR USER'S INPUT :)
